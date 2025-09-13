@@ -8,5 +8,5 @@ This repository contains my lab report for creating and managing user accounts i
 - Modifying account privileges
 - Deleting accounts
 
-File included: `Lab_Report_Create_User_Accounts.docx`
+File included: [click here](https://github.com/NIMRAA3/Windows-User-Accounts-Lab/blob/main/Lab_Report_Create_User_Accounts.docx)
 
